@@ -1,0 +1,1 @@
+# harbor-private-registry-guide
